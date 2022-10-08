@@ -1,6 +1,5 @@
 # myProgram
- string 
-aFriend = "Maira";
-Console.WriteLine(aFriend);
-Console.WriteLine("Hello " + aFriend);
-Console.WriteLine($"Yo Yo {aFriend}");
+string firstFriend = "Yuri";
+string secondFriend = "IURII";
+Console.WriteLine($"My friends are {firstFriend} and {secondFriend}");
+
